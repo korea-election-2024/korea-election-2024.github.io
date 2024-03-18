@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "korea_election_2024_wasm",
   "resources": {
-    "hash": "sha256-1+Fg1LEZxOkJDn9XpbW3wHBoMoDOLY2Vt77pX66yTts=",
+    "hash": "sha256-laQ2MP9XIPaXM0ClBwZIjSEdBj76JLbANWNhOlm8X1k=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.awptwl6qjl.js": "sha256-0MFKts/CuiiMzMBrowUd9UOwsS7ysqVk5qGfHK/bG5U="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "Blazor.SubtleCrypto.wasm": "sha256-5cwpxBXrdqDlyk6yEq3vwvuy2/6tpUpARipB9IYW+J0=",
-      "korea_election_2024_wasm.wasm": "sha256-5EiYJQBCjHCNID6Lu0eGw4RZfcGAvx1i+IM8lcT3eKk=",
+      "korea_election_2024_wasm.wasm": "sha256-mz47+lSoi1P4C8C10ANRFrkOzigc4xPm9s/76evC1D0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Ntv8h0GS6GyAh0il51eKxH8xasSmspFNtpdBfvcv5kQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-2rt4NtUKepq1gEfrnuy0srUHuqwqgvV9Anvfo5T7zbY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-hhtIHbNzZzUUf2dKPSndbDT9FtrhLMRpTyRx43JuY3s=",
